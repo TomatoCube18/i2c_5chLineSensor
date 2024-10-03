@@ -18,7 +18,7 @@ The firmware of the sensor module set the i2c address of the i2C IR Line Sensor 
 1. Connect the 5-Channel IR Line sensor to your micro:bit via an I2C Grove expansion board.
 2. Using the LEDs on the sensor board, calibrate the sensitivity using the on-board potentiometer.
 3. On your MakeCode editor, add this PXT extension to your project: https://github.com/TomatoCube18/pxt-tc-i2c_5chLineSensor
-4. Here is a sample code to display the detection output on the micro:bit matrix display:  https://makecode.microbit.org/_Xrj2oH2fJ9Ye
+4. Here is a sample code to display the detection output on the micro:bit matrix display: https://makecode.microbit.org/_LPaJKWa0zXxK
 
 
 
